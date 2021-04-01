@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceA", "src\ServiceA\ServiceA.csproj", "{74BA41E5-D44E-4F26-A8F5-5981D5429D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceB", "src\ServiceB\ServiceB.csproj", "{8B40BBDF-7B39-46C1-B351-87595EAA3B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceC", "src\ServiceC\ServiceC.csproj", "{434D5EED-BDA9-4106-B5DD-6E86E785CDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BA41E5-D44E-4F26-A8F5-5981D5429D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BA41E5-D44E-4F26-A8F5-5981D5429D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BA41E5-D44E-4F26-A8F5-5981D5429D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BA41E5-D44E-4F26-A8F5-5981D5429D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B40BBDF-7B39-46C1-B351-87595EAA3B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B40BBDF-7B39-46C1-B351-87595EAA3B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B40BBDF-7B39-46C1-B351-87595EAA3B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B40BBDF-7B39-46C1-B351-87595EAA3B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434D5EED-BDA9-4106-B5DD-6E86E785CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434D5EED-BDA9-4106-B5DD-6E86E785CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434D5EED-BDA9-4106-B5DD-6E86E785CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434D5EED-BDA9-4106-B5DD-6E86E785CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C172BE6-F4C0-4EAB-A188-CD9148AC3EB1}
+	EndGlobalSection
+EndGlobal
