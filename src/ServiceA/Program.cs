@@ -13,6 +13,7 @@ namespace ServiceA
     {
         public static void Main(string[] args)
         {
+            //feature/2
             CreateHostBuilder(args).Build().Run();
         }
 
